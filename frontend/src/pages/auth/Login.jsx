@@ -84,11 +84,11 @@ export default function Login() {
   <span className="mx-3">|</span>
   <Link to="/company-register">Register company</Link>
 </div>
-        <div className="demo-box">
+        {/* <div className="demo-box">
     <strong>Demo Credentials</strong>
     <br />
     Username: admin | Password: admin123
-</div>
+</div> */}
       </div>
     </div>
   );
