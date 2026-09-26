@@ -36,7 +36,7 @@ export default function ForgotPassword() {
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
-        minHeight: "90vh",
+        minHeight: "100vh",
       }}
     >
       <div className="auth-card">
