@@ -60,11 +60,11 @@ export default function CompanyRegister() {
 >
       <div className="auth-card" style={{ maxWidth: 560 }}>
         <div className="auth-brand">
-          <div className="auth-logo">
+          {/* <div className="auth-logo">
             <svg viewBox="0 0 24 24" aria-hidden="true">
               <path d="M12 2C8.686 2 6 4.686 6 8c0 3.314 2.686 6 6 6s6-2.686 6-6c0-3.314-2.686-6-6-6zm0 10c-2.209 0-4-1.791-4-4s1.791-4 4-4 4 1.791 4 4-1.791 4-4 4zm0 2c-3.33 0-10 1.668-10 5v1h20v-1c0-3.332-6.67-5-10-5z" fill="currentColor" />
             </svg>
-          </div>
+          </div> */}
           <h1>Register Company</h1>
           <p>Create your organization account</p>
         </div>
